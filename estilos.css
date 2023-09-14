@@ -3,5 +3,10 @@ h1{
 }
 
 h2{
+    color:black
     border-color: blueviolet;
+}
+
+h3{
+    color: blue;
 }
